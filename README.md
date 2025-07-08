@@ -18,7 +18,7 @@ This project showcases my skills and favorite technologies using cutting-edge we
 
 ## 🖥️ Live Demo
 
-👉 [View Portfolio Live](#)  
+👉 [View Portfolio Live](http://localhost:5173/)  
 *(Replace with your live site URL)*
 
 ---
